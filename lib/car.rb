@@ -6,6 +6,6 @@ class Car
     @number = number
   end
   def wheel_number
-    @number
+    self.wheel_number
   end
 end
